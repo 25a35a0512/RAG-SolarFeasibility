@@ -1,1 +1,1 @@
-"# RAG-SolarFeasibility" 
+# RAG-SolarFeasibility
