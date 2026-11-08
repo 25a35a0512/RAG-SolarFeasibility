@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st  # pyright: ignore[reportMissingImports]
 from rag import build_rag_chain
 
 st.set_page_config(page_title="Solar Feasibility Assistant", page_icon="☀️", )
